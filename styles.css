@@ -1,13 +1,13 @@
-#all {
-	max-height: 100vh;
-	max-width: 100vw;
-    overflow: auto;
-	width: 80%;
+#all {	
+	width: 100%;
+	max-width: fit-content;
 }
  
  body {
   margin: 0;
   padding: 0;
+  width: 100%;
+	max-width: fit-content;
  }
  
  #background 
